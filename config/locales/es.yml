@@ -4,7 +4,7 @@ es:
     models:
       category:
         one: Categoría
-        others: Categoría
+        others: Categorías
   categories:
     form:
       description: Descripción
